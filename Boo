@@ -1,0 +1,12 @@
+// Write a JavaScript class called TheClass that contains a method called theAlert that pops up an alert saying "Boo"
+
+var TheClass = Class.create({
+initialize: function(name) {
+this.name = name;
+}
+
+theAlert: function() {
+alert("Boo");
+}
+});
+var instance = new TheClass('Foobar');
