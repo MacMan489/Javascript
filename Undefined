@@ -1,0 +1,24 @@
+// QUESTION 1
+
+//All functions return a value in JavaScript. In the absence of an explicit return statement, a funciton returns _____________.
+
+// My approach
+
+<!DOCTYPE html>
+
+<html>
+
+    <script type="text/javascript">
+
+       
+
+        function fxn(){
+
+        }
+
+        alert(fxn());
+
+    </script>
+
+</html>
+
